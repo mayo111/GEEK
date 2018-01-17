@@ -23,6 +23,8 @@ https://www.zhihu.com/question/20070065/answer/79557687
 
 （9）github.com/ombaby: 一个有独立域名的个人网站，可以当成个人博客
 
+（10）issue:  used to track todos. 整理记录思路，记录准备做的事情（项目的背景），对项目的讨论
+
 ### 2. 用途
 
 > GitHub 可以用来干什么？
